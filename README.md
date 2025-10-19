@@ -12,9 +12,9 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/HAKingDesign"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HAKingDesign&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HAKingDesign&theme=synthwave&short_numbers=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HAKingDesign/HAKingDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
