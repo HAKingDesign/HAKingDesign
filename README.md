@@ -14,7 +14,8 @@
 
 <a href="http://www.github.com/HAKingDesign"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HAKingDesign&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/HAKingDesign" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **HAKingDesign/HAKingDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
