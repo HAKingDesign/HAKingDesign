@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HAKingDesign&theme=synthwave&short_numbers=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HAKingDesign/HAKingDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
