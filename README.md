@@ -8,9 +8,9 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/HAKingDesign" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/hunter-a-king" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a><a href="https://hunt-a-king.itch.io/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAKingDesign/HAKingDesign/main/itchio-logo-textless-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAKingDesign/HAKingDesign/main/itchio-logo-textless-black.svg" /> <img src="https://raw.githubusercontent.com/HAKingDesign/HAKingDesign/main/itchio-logo-textless-white.svg" width="32" height="32" alt="itchio" title="itchio" /> </picture> </a> </p> 
-### Badges
 
 <b>My GitHub Stats</b>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=HAKingDesign&theme=synthwave&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
