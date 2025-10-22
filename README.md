@@ -11,8 +11,7 @@
 ### Badges
 
 <b>My GitHub Stats</b>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HAKingDesign&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HAKingDesign&theme=synthwave&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKingDesign&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
